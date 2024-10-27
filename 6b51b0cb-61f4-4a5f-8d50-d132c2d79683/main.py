@@ -4,7 +4,6 @@ from statistics import stdev
 from surmount.technical_indicators import SMA, BB, RSI
 
 class TradingStrategy(Strategy):
-
    @property
    def assets(self):
       return ["SPY", "QQQ", "VTI", "VXUS"]
