@@ -1,4 +1,4 @@
-from surmount.base_class import Strategy, TargetAllocation, backtest
+from surmount.base_class import Strategy, TargetAllocation, backtest,asdfdsafaf
 from surmount.logging import log
 
 class TradingStrategy(Strategy):
